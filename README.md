@@ -3,13 +3,13 @@
 
 ## Services Provided
 ```markdown
-Portable Recording (I can drive to musicians with a varyingly modest recording setup <br>OR I can transport instruments and performers to one of 3 studios)
+Portable Recording 
 
 Mixing - Mastering
 
 Sound Design (commercial, film, and music)
 
-Consultation - Sound Design, Production, Composition, Branding
+Consultation - Sound Design, Composition, Branding
 
 Graphic Art (photoshop and cinema4d)
 
