@@ -1,14 +1,22 @@
 
 ## Meowterspace.Portfolio
 
-**_Portable Recording (I can drive to musicians with a varyingly modest recording setup OR I can transport instruments and performers to one of 3 studios)
-Mixing - Mastering 
+Portable Recording (I can drive to musicians with a varyingly modest recording setup OR I can transport instruments and performers to one of 3 studios)
+
+Mixing - Mastering
+
 Sound Design (commercial, film, and music)
+
 Consultation - Sound Design, Production, Composition, Branding
+
 Graphic Art (photoshop and cinema4d)
+
 Session Performer(s)
+
 Foley Artist(s)
+
 Tutoring and Production Services
+
 <div style="display:none">
 ## Welcome to GitHub Pages
 
