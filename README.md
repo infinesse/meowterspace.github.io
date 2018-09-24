@@ -3,7 +3,7 @@
 
 ## Services Provided
 ```markdown
-Portable Recording (I can drive to musicians with a varyingly modest recording setup OR I can transport instruments and performers to one of 3 studios)
+Portable Recording (I can drive to musicians with a varyingly modest recording setup //OR I can transport instruments and performers to one of 3 studios)
 
 Mixing - Mastering
 
