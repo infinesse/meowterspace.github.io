@@ -1,6 +1,8 @@
 
-## Meowterspace.Portfolio
+## Panthicorn.Audio
 
+## Services Provided
+```markdown
 Portable Recording (I can drive to musicians with a varyingly modest recording setup OR I can transport instruments and performers to one of 3 studios)
 
 Mixing - Mastering
@@ -16,6 +18,7 @@ Session Performer(s)
 Foley Artist(s)
 
 Tutoring and Production Services
+```
 
 <div style="display:none">
 ## Welcome to GitHub Pages
