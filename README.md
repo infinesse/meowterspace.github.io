@@ -1,9 +1,21 @@
+
+## Meowterspace.Portfolio
+
+**_Portable Recording (I can drive to musicians with a varyingly modest recording setup OR I can transport instruments and performers to one of 3 studios)
+Mixing - Mastering 
+Sound Design (commercial, film, and music)
+Consultation - Sound Design, Production, Composition, Branding
+Graphic Art (photoshop and cinema4d)
+Session Performer(s)
+Foley Artist(s)
+Tutoring and Production Services
+<div style="display:none">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/infinesse/meowterspace.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+</div>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
